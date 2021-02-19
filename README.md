@@ -1,17 +1,17 @@
 ### Hi, I'm Jeewan Bhusal 👋
 
 <!--
-**jethoo/jethoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jethoo/jethoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+### What I'm focusing on 
+🔭 Currently focusing on React, NodeJS, Express, Testing React apps, Jest, Cypress, CI/CD
 
-# 
- # 🔭 I’m currently focusing on React, NodeJS, Express, Testing React apps, Jest, Cypress, CI/CD
- # 🌱 I’m currently learning GraphQL, TypeScript, React Native
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-# 📫 How to reach me: https://www.linkedin.com/in/jeewanbhusal/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm currently learning 
+🌱 GraphQL, TypeScript, React Native
+
+👯 I’m looking to collaborate on Full stack apps using MERN stack
+
+### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jeewanbhusal/)
+
+⚡ Fun fact: These days I'm into Lo-fi music
+
